@@ -1,0 +1,2 @@
+^/blog/article/[0-9]*$
+^/blog/article/[A-Z]+-[0-9]+-[0-9]+$
