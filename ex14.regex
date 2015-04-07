@@ -1,0 +1,2 @@
+\s+\w+ have \w+\s+
+.*have\s\d*\s.*
